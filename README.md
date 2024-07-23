@@ -80,5 +80,6 @@ Siga estas etapas para rodar o projeto na sua máquina local:
 
    <img src="front.png" alt="Caminho Front" width="auto" height="auto" />
 
+## Status: Em andamento
 
-  
+  Ainda faltam ser adicionadas pequenas funcionalidades.
